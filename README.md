@@ -371,6 +371,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Django REST Framework MCP](https://github.com/zacharypodbela/djangorestframework-mcp)** - Expose Django REST Framework APIs as MCP tools for LLMs and agentic applications
 - **[Docker](https://github.com/QuantGeekDev/docker-mcp)** - Run and manage docker containers, docker compose, and logs
 - **[Dolt](https://github.com/dolthub/dolt-mcp)** - The official MCP server for version-controlled Dolt databases.
+- **[Dominion Observatory](https://github.com/vdineshk/dominion-observatory)** - MCP behavioral trust API tracking 4,500+ servers with real-time trust scores, CTEF v0.3.2 §4.5 conformance validation, and behavioral drift detection for agent safety decisions.
 - **[DynamoDB-Toolbox](https://www.dynamodbtoolbox.com/docs/databases/actions/mcp-toolkit)** - Leverages your Schemas and Access Patterns to interact with your [DynamoDB](https://aws.amazon.com/dynamodb) Database using natural language.
 - **[elisp-dev-mcp](https://github.com/laurynas-biveinis/elisp-dev-mcp)** - elisp (Emacs Lisp) development support tools, running in Emacs.
 - **[Email](https://github.com/Shy2593666979/mcp-server-email)** - This server enables users to send emails through various email providers, including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail. It also supports attaching files from specified directories, making it easy to upload attachments along with the email content.
